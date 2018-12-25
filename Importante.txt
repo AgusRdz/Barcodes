@@ -1,0 +1,1 @@
+Colocar la fuente ean13.ttf en C:\Windows\Fonts (El nombre de la fuente es Code EAN13)
